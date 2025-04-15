@@ -40,16 +40,14 @@ Set up project structure (frontend + backend)
 Create homepage layout
 
 Add basic routing (Home, About, Features, Contact)
-
-    Design logo & app name (branding)
+Design logo & app name (branding)
 
 📌 PHASE 2: Authentication & User Dashboard
 
 User signup/login system (with JWT or session-based auth)
 
 Create user dashboard after login
-
-    Allow users to view past uploads & quiz history
+ Allow users to view past uploads & quiz history
 
 📌 PHASE 3: PDF Upload & Book Analysis
 
@@ -58,50 +56,40 @@ Add file upload component (accept only PDFs)
 Backend API to receive and store PDFs
 
 Use a PDF parser (e.g., PyMuPDF or PDF.js) to extract text
-
-    Use NLP (spaCy/NLTK) or regex to detect:
-
-        Chapters
-
-        Topics
-
-        Subtopics
+Use NLP (spaCy/NLTK) or regex to detect:
+Chapters
+Topics
+Subtopics
 
 📌 PHASE 4: Metadata Extraction
 
 Store extracted book structure in the database
 
 Create a visual representation of chapters & topics (tree view or list)
-
-    Let users select which chapters to generate quizzes from
+Let users select which chapters to generate quizzes from
 
 📌 PHASE 5: Question Generation Engine
 
 Use AI/NLP rules to:
-
-    Generate fill-in-the-blank questions
-
-    Generate MCQs
+Generate fill-in-the-blank questions
+Generate MCQs
 
 Ensure questions are grammatically correct
-
-    Create question preview/edit option for users
+Create question preview/edit option for users
 
 📌 PHASE 6: Quiz & Practice System
 
 Design quiz interface (timer, options, progress bar)
 
 Add feedback system (correct/incorrect + explanation)
-
-    Track scores and completion status per topic
+Track scores and completion status per topic
 
 📌 PHASE 7: Gamification & Progress
 
 Add points, badges, and streak counters
 
 Leaderboard (optional)
-
-    Progress tracking per user, per subject
+Progress tracking per user, per subject
 
 📌 PHASE 8: Final Touches
 
