@@ -110,11 +110,11 @@ Easily integrate features like AI tutors, mobile apps, and adaptive learning pat
 
 ## 🚀 Tech Stack (Tentative)
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js / Flask
-- **Database:** MongoDB / PostgreSQL
-- **PDF Parsing:** PyMuPDF / PDF.js
-- **NLP Tools:** spaCy, NLTK
-- **Auth:** JWT or sessions
+- **Backend:** 
+- **Database:** 
+- **PDF Parsing:** 
+- **NLP Tools:** 
+- **Auth:** 
 
 ---
 
